@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   width: 450px;
   border-radius: 20px;
+  background-color:white;
 }
 .img-card {
   border-radius: 20px 20px 0 0;
