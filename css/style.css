@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color:#E0E8FF
 }
 .card {
   display: flex;
